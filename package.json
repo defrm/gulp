@@ -1,0 +1,22 @@
+{
+  "name": "gulp-web",
+  "version": "1.0.0",
+  "description": "project using gulp4 with bootstrap5",
+  "author": "dm",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.1.0",
+    "postcss": "^8.4.21",
+    "sass": "^1.58.3",
+    "tailwindcss": "^3.2.7"
+  },
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "gulp-postcss": "^9.0.1"
+  },
+  "main": "gulpfile.js",
+  "license": "ISC",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
