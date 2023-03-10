@@ -1,6 +1,6 @@
 {
   "name": "gulp-web",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "project using gulp4 with bootstrap5",
   "author": "dm",
   "devDependencies": {
@@ -16,7 +16,11 @@
   },
   "main": "gulpfile.js",
   "license": "ISC",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  }
+
+  "keywords": [
+    "gulp",
+    "html5",
+    "bootstrap5",
+    "tailwindcss"
+  ]
 }
